@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+
+        <item>
+            <title>Some loop</title>
+            <description>desc </description>
+            <georss:point>55.865617 -4.248538</georss:point>
+            <georss:point>55.867122 -4.247864</georss:point>
+            <georss:point>55.868061 -4.254773</georss:point>
+            <georss:point>55.866315 -4.253700</georss:point>
+            <georss:point>55.865617 -4.248538</georss:point>
+        </item>
+        <item>
+            <title>Driving in a striaght line</title>
+            <description>desc </description>
+            <georss:point>55.863157 -4.249375</georss:point>
+            <georss:point>55.862919 -4.236896</georss:point>
+        </item>
+
+</rss>
